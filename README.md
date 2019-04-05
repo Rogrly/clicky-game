@@ -1,6 +1,6 @@
 # clicky-game
 * A React App clicky-game created using front and back end frameworks
-* Deployed via Heroku: https://rhubarb-crumble-31919.herokuapp.com/
+* https://pacific-meadow-98532.herokuapp.com/
 * Deployed via Github: https://github.com/Rogrly/clicky-game/
 * Github Master branch: https://rogrly.github.io/clicky-game/
 
