@@ -1,0 +1,115 @@
+[
+  {
+    "id": 1,
+    "name": "CSS",
+    "clicked": false,
+    "image":
+      "https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png"
+  },
+  {
+    "id": 2,
+    "name": "HTML",
+    "clicked": false,
+    "image":
+      "https://www.w3.org/html/logo/downloads/HTML5_1Color_Black.png"
+  },
+  {
+    "id": 3,
+    "name": "JavaScript",
+    "clicked": false,
+    "image":
+      "https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png"
+  },
+  {
+    "id": 4,
+    "name": "jQuery",
+    "clicked": false,
+    "image":
+      "http://pluspng.com/img-png/jquery-logo-png-jquery-320.png"
+  },
+  {
+    "id": 5,
+    "name": "ReactJs",
+    "clicked": false,
+    "image":
+      "https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"
+  },
+  {
+    "id": 6,
+    "name": "MySQL",
+    "clicked": false,
+    "image":
+      "https://pngimg.com/uploads/mysql/mysql_PNG9.png"
+  },
+  {
+    "id": 7,
+    "name": "MongoDB",
+    "clicked": false,
+    "image":
+      "https://i.dlpng.com/static/png/359589_thumb.png"
+  },
+  {
+    "id": 8,
+    "name": "Wordpress",
+    "clicked": false,
+    "image":
+      "http://www.pngall.com/wp-content/uploads/2016/05/WordPress-Logo-PNG-File.png"
+  },
+  {
+    "id": 9,
+    "name": "Firebase",
+    "clicked": false,
+    "image":
+      "https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-512.png"
+  },
+  {
+    "id": 10,
+    "name": "GoogleChrome",
+    "clicked": false,
+    "image":
+      "http://pngimg.com/uploads/chrome_logo/chrome_logo_PNG4.png"
+  },
+  {
+    "id": 11,
+    "name": "VSC",
+    "clicked": false,
+    "image":
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1028px-Visual_Studio_Code_1.18_icon.svg.png"
+  },
+  {
+    "id": 12,
+    "name": "NPM",
+    "clicked": false,
+    "image":
+      "https://authy.com/wp-content/uploads/npm-logo.png"
+  },
+  {
+    "id": 13,
+    "name": "Adobe",
+    "clicked": false,
+    "image":
+      "https://upload.wikimedia.org/wikipedia/commons/7/7b/Adobe_Systems_logo_and_wordmark.svg"
+  },
+  {
+    "id": 14,
+    "name": "Rutgers",
+    "clicked": false,
+    "image":
+      "http://www.logospng.com/images/142/eversport-the-home-for-live-sports-broadcasts-142897.png"
+  },
+  {
+    "id": 15,
+    "name": "Apple",
+    "clicked": false,
+    "image":
+      "https://image.flaticon.com/icons/png/512/23/23656.png"
+  },
+  {
+    "id": 16,
+    "name": "NodeJs",
+    "clicked": false,
+    "image":
+      "https://nodejs.org/static/images/logos/nodejs-new-pantone-black.png"
+  }
+]
+
